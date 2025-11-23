@@ -90,8 +90,7 @@ Researchers and engineers can use these logs to:
 ---
 
 ## 🔗 Research Paper Link
-👉 **Insert Zenodo link after upload**  
-`<PLACEHOLDER>`
+  https://zenodo.org/records/17692820
 
 ---
 
